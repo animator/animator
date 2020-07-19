@@ -28,8 +28,8 @@ Quick Links:
     Travelling endlessly on the never-ending borderline of Mandelbrot.
 
 :pencil: I wrote this poem way back in 2011, when I was just a story-teller with no knowledge of Data Science.   
-Fast forward present day, I help firms create stories from their data (which I cannot share due to contractual obligations).  
-But, what I can still share are some of my old stories:
+Fast forward present day, I help firms create stories from their data which I cannot share due to contractual obligations.  
+But, what I can still share are some of my [old] stories:
 - [The Third Wave](http://ankitmahato.blogspot.com/2012/06/third-wave.html)
 - [The Brick Tea](http://ankitmahato.blogspot.com/2012/11/the-brick-tea.html)
 - [Love, Strategy and Antaragni](http://ankitmahato.blogspot.com/2013/04/love-strategy-and-antaragni.html)
