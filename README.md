@@ -1,7 +1,6 @@
 #### Quick Links
-- :technologist: Website - [Real World Python](https://realworldpython.guide/)
+- :technologist: Website, :loudspeaker: Talks and Workshops - [Real World Python](https://realworldpython.guide/)
 - :trophy: Achievements - Browse my [LinkedIn Profile](https://www.linkedin.com/in/ankitmahato/)
-- :loudspeaker: Talks and Workshops - Browse my [Youtube Channel](https://www.youtube.com/user/ankitmahato/featured?view_as=subscriber)
 - :octocat: Open source contributions - Browse my [Github Repos](https://github.com/animator?tab=repositories)
 
 ### Life is a Mandelbrot
